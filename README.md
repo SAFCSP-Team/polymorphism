@@ -22,9 +22,11 @@ Create “Shapes” and has a method called “area()” usning polymorphism.
 * Create superclass named “Shapes” has a method called “area()”.
 * Subclasses of “Shapes” can be “circle”, “Rectangle”.
 * Each subclass has its way of calculating area. Using Inheritance and Polymorphism means, the subclasses can use the “area()” method to find the area’s formula for that shape.
-  
+
+```java
 class Main {
   public static void main(String[] args) {
  
   }
 }
+```
