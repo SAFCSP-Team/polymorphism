@@ -16,18 +16,19 @@ In this project, we will learn how to perform a **single action in different way
 
 **Problem**
 
-Create `Shapes` and have a method called `area()` using polymorphism.
+Create `Bank` and have a method called `getRateOfInterest()` using the polymorphism concept.
 
 **Implementation**
 
-* Create a superclass named `Shapes` that has a method called `area()`.
-* Subclasses of `Shapes` can be `circle` and `Rectangle`.
-* Each subclass has its way of calculating area. Using Inheritance and Polymorphism means, the subclasses can use the `area()` method to find the area’s **formula** for that shape.
+* Create a superclass named `Bank` that has a method called `getRateOfInterest()`.
+* Subclasses of `Back` can be `SNB` and `SAB`.
+* Each subclass has its way of calculating the Rate Of Interest.
+* the subclasses can use the `getRateOfInterest()` method to find the rate for that bank.
+* print the Rate Of Interest for each bank in the main method.
 
 ```java
 class Main {
   public static void main(String[] args) {
- 
   }
 }
 ```
