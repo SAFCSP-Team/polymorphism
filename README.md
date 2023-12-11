@@ -16,7 +16,7 @@ In this project, we will learn how to perform a **single action in different way
 
 **Problem**
 
-Create `Bank` class that have a method called getRateOfInterest() and apply the concept of polymorphism to perform the method in differnt ways possible
+Create `Bank` class that has a method called `getRateOfInterest()` and apply the concept of polymorphism to perform the method in different ways possible
 
 **Implementation**
 
